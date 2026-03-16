@@ -6,7 +6,7 @@
 
 # Penjelasan Struktur Program
 
-## 1 Fungsi `main()`
+## 1. Fungsi `main()`
 
 ```dart
 void main() {
@@ -25,7 +25,7 @@ Fungsi `main()` merupakan **titik awal eksekusi program Flutter**.
 
 ---
 
-## 2 Widget `MaterialApp`
+## 2. Widget `MaterialApp`
 
 ```dart
 MaterialApp(
@@ -47,7 +47,7 @@ MaterialApp(
 
 ---
 
-## 3 Widget `Scaffold`
+## 3. Widget `Scaffold`
 
 ```dart
 Scaffold(
@@ -67,7 +67,7 @@ Scaffold(
 
 ---
 
-## 4 Widget `AppBar`
+## 4. Widget `AppBar`
 
 ```dart
 AppBar(
@@ -86,7 +86,7 @@ Digunakan untuk menampilkan **judul aplikasi di bagian atas layar**.
 
 ---
 
-## 5 Widget `Column`
+## 5. Widget `Column`
 
 ```dart
 Column(
@@ -110,7 +110,7 @@ Column(
 
 ---
 
-## 6 Widget `Row`
+## 6. Widget `Row`
 
 ```dart
 Row(
@@ -134,7 +134,7 @@ Row(
 
 ---
 
-## 7 Widget `Container`
+## 7. Widget `Container`
 
 ```dart
 Container(
@@ -155,7 +155,7 @@ Container(
 
 ---
 
-## 8 Widget `Image.network`
+## 8. Widget `Image.network`
 
 ```dart
 Image.network(
@@ -174,7 +174,7 @@ Digunakan untuk menampilkan **gambar dari internet** tanpa harus menyimpan gamba
 
 ---
 
-## 9 Widget `Icon`
+## 9. Widget `Icon`
 
 ```dart
 Icon(Icons.food_bank)
@@ -191,7 +191,7 @@ Digunakan untuk menampilkan **ikon kategori gambar**.
 
 ---
 
-## 10 `StatefulWidget` pada Counter
+## 10. `StatefulWidget` pada Counter
 
 ```dart
 class CounterCard extends StatefulWidget
@@ -208,7 +208,7 @@ class CounterCard extends StatefulWidget
 
 ---
 
-## 11 Fungsi `setState()`
+## 11. Fungsi `setState()`
 
 ```dart
 setState(() {
