@@ -4,9 +4,9 @@
 | :---:       | :---:     | :----------: |
 | Ahmad Faiz Tajuddin | 5025231291 | PPB E |
 
-# 2. Penjelasan Struktur Program
+# Penjelasan Struktur Program
 
-## 2.1 Fungsi `main()`
+## 1 Fungsi `main()`
 
 ```dart
 void main() {
@@ -25,7 +25,7 @@ Fungsi `main()` merupakan **titik awal eksekusi program Flutter**.
 
 ---
 
-## 2.2 Widget `MaterialApp`
+## 2 Widget `MaterialApp`
 
 ```dart
 MaterialApp(
@@ -47,7 +47,7 @@ MaterialApp(
 
 ---
 
-## 2.3 Widget `Scaffold`
+## 3 Widget `Scaffold`
 
 ```dart
 Scaffold(
@@ -67,7 +67,7 @@ Scaffold(
 
 ---
 
-## 2.4 Widget `AppBar`
+## 4 Widget `AppBar`
 
 ```dart
 AppBar(
@@ -86,7 +86,7 @@ Digunakan untuk menampilkan **judul aplikasi di bagian atas layar**.
 
 ---
 
-## 2.5 Widget `Column`
+## 5 Widget `Column`
 
 ```dart
 Column(
@@ -110,7 +110,7 @@ Column(
 
 ---
 
-## 2.6 Widget `Row`
+## 6 Widget `Row`
 
 ```dart
 Row(
@@ -134,7 +134,7 @@ Row(
 
 ---
 
-## 2.7 Widget `Container`
+## 7 Widget `Container`
 
 ```dart
 Container(
@@ -155,7 +155,7 @@ Container(
 
 ---
 
-## 2.8 Widget `Image.network`
+## 8 Widget `Image.network`
 
 ```dart
 Image.network(
@@ -174,7 +174,7 @@ Digunakan untuk menampilkan **gambar dari internet** tanpa harus menyimpan gamba
 
 ---
 
-## 2.9 Widget `Icon`
+## 9 Widget `Icon`
 
 ```dart
 Icon(Icons.food_bank)
@@ -191,7 +191,7 @@ Digunakan untuk menampilkan **ikon kategori gambar**.
 
 ---
 
-## 2.10 `StatefulWidget` pada Counter
+## 10 `StatefulWidget` pada Counter
 
 ```dart
 class CounterCard extends StatefulWidget
@@ -208,7 +208,7 @@ class CounterCard extends StatefulWidget
 
 ---
 
-## 2.11 Fungsi `setState()`
+## 11 Fungsi `setState()`
 
 ```dart
 setState(() {
