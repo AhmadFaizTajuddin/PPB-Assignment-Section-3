@@ -8,6 +8,8 @@
 
 <img width="629" height="890" alt="Screenshot 2026-03-17 011941" src="https://github.com/user-attachments/assets/61799639-c447-4ff8-bad6-6253d9058d7f" />
 
+---
+
 # Kode Program
 
 ```dart
@@ -161,6 +163,8 @@ class _CounterCardState extends State<CounterCard> {
   }
 }
 ```
+
+---
 
 # Penjelasan Struktur Program
 
