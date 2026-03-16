@@ -4,32 +4,6 @@
 | :---:       | :---:     | :----------: |
 | Ahmad Faiz Tajuddin | 5025231291 | PPB E |
 
-# Laporan Praktikum Flutter
-
-## Pembuatan Layout Menggunakan Row, Column, dan StatefulWidget
-
----
-
-# 1. Pendahuluan
-
-## 1.1 Latar Belakang
-
-Flutter merupakan framework yang dikembangkan oleh Google untuk membangun aplikasi mobile secara **cross-platform** menggunakan bahasa pemrograman **Dart**. Flutter menyediakan berbagai widget yang memudahkan developer dalam membuat tampilan aplikasi yang responsif dan menarik.
-
-Pada praktikum ini dibuat sebuah aplikasi sederhana yang menampilkan gambar, teks, ikon kategori, serta fitur **counter**. Aplikasi ini bertujuan untuk memahami penggunaan widget dasar Flutter seperti **MaterialApp, Scaffold, Column, Row, Container, dan StatefulWidget**.
-
-## 1.2 Tujuan Praktikum
-
-Tujuan dari praktikum ini adalah:
-
-1. Memahami struktur dasar aplikasi Flutter.
-2. Mempelajari penggunaan widget **Row dan Column** untuk mengatur layout.
-3. Memahami penggunaan **Container** sebagai pembungkus widget.
-4. Memahami penggunaan **StatefulWidget** untuk membuat data yang dapat berubah.
-5. Mengetahui cara menampilkan gambar dari internet menggunakan `Image.network`.
-
----
-
 # 2. Penjelasan Struktur Program
 
 ## 2.1 Fungsi `main()`
@@ -252,17 +226,3 @@ Digunakan untuk memberi tahu Flutter bahwa **state aplikasi berubah**.
 * Menampilkan nilai counter terbaru
 
 ---
-
-# 3. Hasil Tampilan Program
-
-Aplikasi menampilkan beberapa komponen utama yaitu:
-
-1. Judul aplikasi pada AppBar
-2. Gambar yang diambil dari internet
-3. Teks pertanyaan mengenai kategori gambar
-4. Tiga ikon kategori (Food, Scenery, People)
-5. Counter yang dapat bertambah ketika tombol ditekan
-
----
-
-# 4. K
